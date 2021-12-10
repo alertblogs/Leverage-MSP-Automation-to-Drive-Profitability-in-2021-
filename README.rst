@@ -1,41 +1,63 @@
-AlertOps Expert Guidance
+Leverage MSP Automation to Drive Profitability (in 2021)
 ========
 
  
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Managed service providers (MSPs) require automation, so they can deliver fast, efficient IT services that meet customer expectations. But, MSP automation can be difficult — and the longer it takes an MSP to automate IT service management (ITSM), the further it falls behind its competitors.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
-
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
-
-Automate Processes
+Common MSP Automation Challenges
 ====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+Today’s MSPs face several challenges relative to automation, including:
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+1. Complex Scripting Language
+IT technicians may need to learn a complex scripting language to leverage an ITSM platform. Yet, learning this language often requires significant time, energy, and resources.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+2. Lack of Confidence
+IT technicians who are unfamiliar with an ITSM platform or are unwilling to learn how to properly leverage will lack confidence in their ability to use it. The result: these techs will struggle to drive MSP automation.
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+3. Poor Task Management
+IT technicians must complete repeatable tasks every day, but they may struggle to distinguish “important” tasks from “urgent” ones. In this instance, IT techs may try to do too much, so they can complete all tasks, as quickly as possible. When this happens, IT techs may ignore fundamental best practices as they perform tasks, which increases the likelihood of errors that can impact both the MSP and its customers.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+4. Inability to Manage IT Operations Beyond the Endpoint
+Endpoint management is paramount — without it, MSPs lack full visibility into their IT operations. However, MSPs may leverage tools that fail to provide endpoint visibility, which hampers their ability to automate these operations.
+Why MSPs Need to Prioritize Automation
 
-1 Red Canary 2021 Threat Detection Report
+MSP automation is a difference-maker for service providers, regardless of size or experience. With the ability to automate their IT operations, MSPs can:
+
+1. Overcome an Industry-Wide Skills Shortage
+The global IT skill shortage has been an ongoing problem, and it looks likely to continue in the foreseeable future. Thanks to automation, MSPs can upgrade their services without having to hire top talent. MSP automation tools empower service providers to automate common IT operations, enabling their staff to shift their focus to high-value tasks. This enables MSPs to simultaneously bolster their IT operations and overcome an industry-wide skills shortage.
+
+2. Minimize the Risk of Data Breaches
+Malware, ransomware, and other MSP cyber attacks are increasing in terms of volume and severity. One of the reasons cybercriminals can penetrate MSPs’ IT systems: service providers’ security software has not updated properly. With automatic security updates in place, MSPs can verify the latest patches have been installed across their IT systems. This minimizes the risk of data breaches that can otherwise put MSPs and their customers in danger.
+
+3. Grow Their Revenues
+The worldwide managed services market is growing, and organizations can choose from a variety of MSPs to receive managed data center and IT infrastructure services. By leveraging automation tools, MSPs can keep pace in a rapidly expanding managed services market. MSPs can use automation tools to streamline their IT operations and consistently fulfill customer requests. This can help MSPs distinguish themselves from their rivals and grow their revenues.
+Identify the Right MSP Automation Platform
+
+Many MSP automation platforms are available, and service providers should examine their options closely. Ultimately, the right MSP automation platform can help MSPs:
+
+1. Eliminate Repeatable Tasks
+An MSP automation platform should provide service providers with insights into their everyday tasks. That way, the platform lets IT technicians see which tasks are repeatable and can be automated. The platform also should empower IT techs to trigger automated tasks based on events. If a high-priority task occurs, the platform should automatically escalate the task and respond appropriately, too.
+
+2. Monitor Customers’ Cloud Networks
+An MSP automation platform should allow service providers to monitor and support all of a customers’ cloud-connected devices. Plus, the platform should allow MSPs to seamlessly set up, track, and manage customers’ cloud environments and implement triggers to escalate configuration tasks to quickly approve security patches as needed.
+
+3. Accelerate Alert Response and Remediation
+An MSP automation platform should allow MSPs to instantly escalate alerts to ensure that incidents are resolved immediately. The platform should enable IT technicians to establish triggers, so they can send layered alerts to relevant stakeholders. IT techs should also be able to use the platform to create and escalate alert tickets, so they can keep the lines of communication open until an incident is resolved.
+Why MSPs Should Choose AlertOps for Automation
+
+AlertOps offers a major incident management platform designed to help MSPs drive automation. Our platform works in combination with PSA Tools like ConnectWise Manage to help MSPs:
+
+    Automate the service ticket lifecycle
+    Send alerts via email, text message, phone call, and other communication methods
+    Escalate alerts automatically until they have been acknowledged or closed
+    Establish policies based on SLAs and trigger workflow escalations accordingly
+    Use the ConnectWise Manage API to build custom automations
+
+Together, AlertOps and PSA Tools help MSPs automate incident response and remediation and bolster their IT operations.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
-
+https://alertops.com/msp-automation/
 Read more:
 ====
 
